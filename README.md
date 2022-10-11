@@ -1,0 +1,14 @@
+## Kişisel Web Sayfamızı Detaylandırmaya Devam Etmek
+- Kişisel web sayfamızı yeni öğrendiğimiz bilgiler dahilinde geliştirmeye devam ediyoruz.
+---
+- Sevdiğim belgeselleri, filmleri ve kitapları sıralı liste; içerikleri bullet liste olacak şekilde oluşturdum.
+---
+- Bunları sıralarken belgesellere ve filmlere IMDb linki, kitaplara da Goodreads linki ekledim.
+---
+- Kurduğum yapılarda ***block, inline*** gibi elementleri kullandım.
+---
+- Sayfama bir adet resim ekleyerek bir açıklama yazısı yazdım.
+---
+- Teşekkürler Patika.
+---
+- [Patika](https://app.patika.dev/meryemarikusu)
